@@ -1,0 +1,9 @@
+.avatar {
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+}
+#layout-avatar {
+	display: flex;
+	align-items: center;
+}
